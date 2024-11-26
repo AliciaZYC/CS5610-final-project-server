@@ -5,6 +5,7 @@ import users from "./users.js";
 import grades from "./grades.js";
 import enrollments from "./enrollments.js";
 import quizzes from "./quizzes.js";
+import scores from "./scores.js";
 export default {
   courses,
   modules,
@@ -13,4 +14,5 @@ export default {
   grades,
   enrollments,
   quizzes,
+  scores,
 };

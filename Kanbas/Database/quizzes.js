@@ -2,7 +2,7 @@ export default [
   {
     _id: "QZ101",
     course: "RS101",
-    published: false,
+    published: true,
     title: "Basic Math Quiz",
     description: "A simple quiz to test basic arithmetic skills.",
     quizType: "Graded Quiz",
@@ -193,7 +193,7 @@ export default [
   {
     _id: "QZ105",
     course: "RS102",
-    published: false,
+    published: true,
     title: "Introduction to Philosophy Quiz",
     description: "A quiz on fundamental philosophical questions and theories.",
     quizType: "Graded Quiz",
